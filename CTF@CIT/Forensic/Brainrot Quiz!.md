@@ -13,9 +13,9 @@ Bombardiro Crocodillo or....? You find out...
 In this challenge, we are given a file named `brainrot.pcap`. In the file there are 30 ICMP packets.
 
 attach the image (Screenshot_196.png) to the challenge
-![wireshark](Screenshot_196.png)
+![wireshark](images/Screenshot_196.png)
 
-![Packet 11](Screenshot_197.png)
+![Packet 11](images/Screenshot_197.png)
 
 Packet 11 contains data that looks like a base64 encoded string. We can decode it using the following command:
 

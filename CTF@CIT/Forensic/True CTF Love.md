@@ -14,7 +14,7 @@ The_Flag_Well_Capture_Together.eml
 ## Solution
 In this challenge, we are given an email file named `The_Flag_Well_Capture_Together.eml`. The email contains a Poem about CTFs. 
 
-![EML File](Screenshot_198.png)
+![EML File](images/Screenshot_198.png)
 
 Checking with the `file` command, we can see that the file is:
 
