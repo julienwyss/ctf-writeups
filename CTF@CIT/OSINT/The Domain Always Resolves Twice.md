@@ -1,4 +1,4 @@
-#The Domain Always Resolves Twice
+# The Domain Always Resolves Twice
 
 | Titel          | Kategorie | flag |
 | :---        |    :----   |:--- |
