@@ -8,5 +8,5 @@
 ![CTF@CIT](images/Screenshot_212.png)
 
 ## Categories
-- [OSINT](OSINT/Readme.md)
-- [Web](Web/Readme.md)
+- [OSINT](OSINT)
+- [Web](Web)
