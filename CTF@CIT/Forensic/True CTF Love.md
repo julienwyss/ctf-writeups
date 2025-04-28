@@ -30,7 +30,7 @@ V293LCB3aGF0IGEgYmVhdXRpZnVsIGxpdHRsZSBwb2VtLiBJIGFsbW9zdCBzaGVkIGEgdGVhciByZWFk
 Decoded with the following command:
 
 ```bash
- echo `echo Q0lUe3RyNGw0bDNyMF90cjRsNGw0fQ== | base64 --decode`
+ echo `echo base64_String | base64 --decode`
 ```
 
 the output is:
