@@ -1,8 +1,8 @@
 # We lost the flag
 
-| Titel          | Kategorie | flag |
-| :---        |    :----   |:--- |
-| We lost the flag | Forensic  | CIT{us1ng_m4g1c_1t_s33m5} |
+| Titel          | Kategorie | flag | Difficulty |
+| :---        |    :----   |:--- | :--- |
+| We lost the flag | Forensic  | CIT{us1ng_m4g1c_1t_s33m5} | undefined |
 
 ## Description
 Sorry everyone, we unfortunately lost the flag for this challenge.

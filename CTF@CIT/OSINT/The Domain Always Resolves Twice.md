@@ -1,8 +1,8 @@
 # The Domain Always Resolves Twice
 
-| Titel          | Kategorie | flag |
-| :---        |    :----   |:--- |
-| The Domain Always Resolves Twice | OSINT  | GoDaddy |
+| Titel          | Kategorie | flag | Difficulty |
+| :---        |    :----   |:--- |  :--- |
+| The Domain Always Resolves Twice | OSINT  | GoDaddy | undefined |
 
 ## Description
 What is Anthony McConnolly's favorite domain registrar?

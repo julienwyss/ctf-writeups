@@ -1,8 +1,8 @@
 # No Country for Old Keys
 
-| Titel          | Kategorie | flag |
-| :---        |    :----   |:--- |
-| No Country for Old Keys | OSINT  | ap9gt04qtxcqfin9 |
+| Titel          | Kategorie | flag | Difficulty |
+| :---        |    :----   |:--- | :--- |
+| No Country for Old Keys | OSINT  | ap9gt04qtxcqfin9 | undefined |
 
 ## Description
 What is Anthony McConnolly's API key?

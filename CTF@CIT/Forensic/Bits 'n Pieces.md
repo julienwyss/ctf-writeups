@@ -1,8 +1,8 @@
 # Bits 'n Pieces
 
-| Titel          | Kategorie | flag |
-| :---        |    :----   |:--- |
-| Bits 'n Pieces | Forensic  | CIT{c4ch3_n3_if_y0u_c4n} |
+| Titel          | Kategorie | flag | Difficulty |
+| :---        |    :----   |:--- | :--- | 
+| Bits 'n Pieces | Forensic  | CIT{c4ch3_n3_if_y0u_c4n} | undefined |
 
 ## Description
 Somewhere in these digital fragments lies what you've been searching for your entire lifetime, or really just this weekend ;)

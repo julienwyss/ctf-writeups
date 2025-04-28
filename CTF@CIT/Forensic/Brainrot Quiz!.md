@@ -1,8 +1,8 @@
 # Brainrot Quiz!
 
-| Titel          | Kategorie | flag |
-| :---        |    :----   |:--- |
-| Brainrot Quiz! | Forensic  | CIT{tr4l4l3r0_tr4l4l4} |
+| Titel          | Kategorie | flag | Difficulty |
+| :---        |    :----   |:--- | :--- |
+| Brainrot Quiz! | Forensic  | CIT{tr4l4l3r0_tr4l4l4} | undefined |
 
 
 ## Description

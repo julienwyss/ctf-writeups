@@ -1,8 +1,8 @@
 # True CTF Love
 
-| Titel          | Kategorie | flag |
-| :---        |    :----   |:--- |
-| True CTF Love | Forensic  | CIT{i_l0v3_ctf$_t00} |
+| Titel          | Kategorie | flag | Difficulty |
+| :---        |    :----   |:--- | :--- |
+| True CTF Love | Forensic  | CIT{i_l0v3_ctf$_t00} | undefined |
 
 ## Description
 I got this strange email from another CTF participant not too long ago. I am just not sure what they mean by this...

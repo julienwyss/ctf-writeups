@@ -1,8 +1,8 @@
 # Throwback to the Future
 
-| Titel          | Kategorie | flag |
-| :---        |    :----   |:--- |
-| Throwback to the Future | OSINT  | 12/31/2023 |
+| Titel          | Kategorie | flag | Difficulty |
+| :---        |    :----   |:--- | :--- |
+| Throwback to the Future | OSINT  | 12/31/2023 | undefined |
 
 ## Description
 What date was Anthony McConnolly's "throwback" photo taken? (not the day it was posted)

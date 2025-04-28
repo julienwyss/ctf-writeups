@@ -1,8 +1,8 @@
 # Baller
 
-| Titel          | Kategorie | flag |
-| :---        |    :----   |:--- |
-| Baller | Forensic  | CIT{im_balling_fr} |
+| Titel          | Kategorie | flag | Difficulty |
+| :---        |    :----   |:--- | :--- |
+| Baller | Forensic  | CIT{im_balling_fr} | undefined |
 
 ## Description
 Find the flag.
