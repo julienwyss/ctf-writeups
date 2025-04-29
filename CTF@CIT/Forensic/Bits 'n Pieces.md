@@ -2,7 +2,7 @@
 
 | Titel          | Kategorie | flag | Difficulty |
 | :---        |    :----   |:--- | :--- | 
-| Bits 'n Pieces | Forensic  | CIT{c4ch3_n3_if_y0u_c4n} | undefined |
+| Bits 'n Pieces | Forensic  | CIT{c4ch3_m3_if_y0u_c4n} | undefined |
 
 ## Description
 Somewhere in these digital fragments lies what you've been searching for your entire lifetime, or really just this weekend ;)
@@ -29,4 +29,4 @@ Now there are multiple ways to find the flag:
 
 ![Stitched Image](images/Screenshot_202.png)
 
-The flag is in the image: `CIT{c4ch3_n3_if_y0u_c4n}`
+The flag is in the image: `CIT{c4ch3_m3_if_y0u_c4n}`
