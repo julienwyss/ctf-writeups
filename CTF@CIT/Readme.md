@@ -5,7 +5,7 @@
 
 ## Categories
 - [OSINT](OSINT)
-- [Web](Web)
+- [Forensic](Forensic)
 
 ## Image
 ![CTF@CIT](images/Screenshot_212.png)
