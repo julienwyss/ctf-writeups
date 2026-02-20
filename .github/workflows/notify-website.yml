@@ -1,0 +1,15 @@
+name: Notify Website Repo
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Dispatch Signal to Website
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          repository: julienwyss/personal_website
+          event-type: update-writeups-submodule
